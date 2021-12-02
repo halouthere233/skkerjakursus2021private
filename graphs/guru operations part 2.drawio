@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T14:07:26.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.8.8" etag="jxk-obTFNrTJVBS-AKNi" type="github"><diagram id="kDCnx-jUCNNQlxxnp8YH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-02T14:12:12.609Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="_XOgX8n-pPXnKRoz5-l7" version="15.8.8" type="github">
+  <diagram id="kDCnx-jUCNNQlxxnp8YH" name="Page-1">
+    <mxGraphModel dx="583" dy="608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFhkDM4pKNOnbdBz3ZWN-1" target="DFhkDM4pKNOnbdBz3ZWN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="55" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFhkDM4pKNOnbdBz3ZWN-2" target="DFhkDM4pKNOnbdBz3ZWN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-2" value="ingin tambah?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFhkDM4pKNOnbdBz3ZWN-3" target="DFhkDM4pKNOnbdBz3ZWN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-3" value="soalan?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFhkDM4pKNOnbdBz3ZWN-4" target="DFhkDM4pKNOnbdBz3ZWN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-4" value="topik?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="295" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFhkDM4pKNOnbdBz3ZWN-5" target="DFhkDM4pKNOnbdBz3ZWN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-5" value="guru?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DFhkDM4pKNOnbdBz3ZWN-7" target="DFhkDM4pKNOnbdBz3ZWN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-7" value="pelajar?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-8" value="kelas?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-15" value="PAPAR borang&lt;br&gt;tambah soalan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-16" value="PAPAR&amp;nbsp;borang&lt;br&gt;tambah topik" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-17" value="PAPAR&amp;nbsp;borang&lt;br&gt;tambah guru" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-18" value="PAPAR&amp;nbsp;borang&lt;br&gt;tambah pelajar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-19" value="PAPAR&amp;nbsp;borang&lt;br&gt;tambah kelas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="180" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-20" value="INPUT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-21" value="Papar borang&lt;br&gt;tambah topik" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-22" value="Papar borang&lt;br&gt;tambah guru" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-23" value="Papar borang&lt;br&gt;tambah pelajar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DFhkDM4pKNOnbdBz3ZWN-24" value="Papar borang&lt;br&gt;tambah kelas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
