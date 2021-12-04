@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-04T06:08:18.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="lVa3h9IPgJsyGLEtghD_" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-04T06:08:52.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="5tqBjWwF3DcIjEAC001E" version="15.8.9" type="github">
   <diagram id="v_0b9nZa_BAAOyStt3nX" name="Page-1">
     <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,6 +9,12 @@
         </mxCell>
         <mxCell id="gPWtYPe_malXiGD7fy5B-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFE926;strokeWidth=10;" vertex="1" parent="1">
           <mxGeometry x="302" y="228" width="178" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="gPWtYPe_malXiGD7fy5B-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=18;strokeWidth=5;" edge="1" parent="1" source="gPWtYPe_malXiGD7fy5B-3" target="gPWtYPe_malXiGD7fy5B-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gPWtYPe_malXiGD7fy5B-3" value="Tekan butang &quot;Keluar&quot; untuk log keluar" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;labelBackgroundColor=#FFE926;" vertex="1" parent="1">
+          <mxGeometry x="301" y="380" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
